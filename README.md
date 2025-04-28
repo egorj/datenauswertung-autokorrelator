@@ -1,4 +1,4 @@
-# Auswertung simulierter Daten eines Autokorrelators mit mathematischen Methoden
+# Auswertung simulierter Daten eines Autokorrelators mit 4 mathematischen Methoden
 
 
 ## Inhaltsverzeichnis
